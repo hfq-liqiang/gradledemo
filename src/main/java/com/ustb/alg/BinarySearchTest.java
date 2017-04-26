@@ -2,6 +2,7 @@ package com.ustb.alg;
 
 /**
  * Created by HFQ-Arison on 2017/3/22.
+ * just for test github --> by arison
  */
 public class BinarySearchTest {
     public static int binarySearch(int[] ary,int low,int high ,int key) {
